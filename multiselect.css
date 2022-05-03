@@ -1,0 +1,18 @@
+.multiselect-text {
+  cursor: pointer;
+}
+
+.multiselect-wrapper {
+  height: fit-content;
+  max-height: 100px;
+
+  display: flex;
+  flex-flow: column nowrap;
+  width: 100%;
+  max-width: fit-content;
+}
+
+.multiselect-ul li {
+  padding: 0;
+  margin: 0;
+}
